@@ -1,0 +1,10 @@
+[submodule "themes/m10c"]
+	path = themes/m10c
+	url = https://github.com/vaga/hugo-theme-m10c.git
+[submodule "themes/alageek"]
+	path = themes/alageek
+	url = git@github.com:gkmngrgn/hugo-alageek-theme.git
+[submodule "public"]
+	path = public
+	url = git@github.com:charithe/charithe.github.io.git
+	branch = master

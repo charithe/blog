@@ -1,0 +1,27 @@
+baseURL = "/"
+languageCode = "en-gb"
+author = "Charith Ellawala"
+title = "Ultracrepidarian"
+theme = "m10c"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+
+[params]
+  author = "Charith Ellawala"
+  description = "Musings"
+  avatar = "images/profile_pic.jpg"
+  menu_item_separator = " | "
+
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/charithe"
+
+
